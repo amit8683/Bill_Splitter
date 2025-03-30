@@ -61,6 +61,15 @@ The database consists of the following tables:
 - **Role-based access control**: Only the team creator can settle expenses.
 - **CSRF Protection**: Prevents cross-site request forgery.
 
+## Additional Resources
+
+- [Project Documentation (PDF)](https://github.com/your-repo/BillSplitter/docs/documentation.pdf)
+- [Presentation (PPT)](## Additional Resources
+
+- [Project Documentation (PDF)](https://github.com/your-repo/BillSplitter/docs/documentation.pdf)
+- [Presentation (PPT)](https://github.com/your-repo/BillSplitter/docs/presentation.pptx)
+)
+
 
 
 ## Contributors
