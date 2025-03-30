@@ -65,7 +65,7 @@ The database consists of the following tables:
 
 
 
-- [Project Documentation (PDF)](https://github.com/your-repo/BillSplitter/docs/documentation.pdf)
+- [Project Documentation (PDF)](https://github.com/amit8683/Bill_Splitter/blob/main/Er.pdf)
 - [Presentation (PPT)](https://github.com/amit8683/Bill_Splitter/blob/main/Bill_Splitter_Presentation_Updated.pptx)
 
 
