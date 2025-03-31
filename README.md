@@ -71,6 +71,6 @@ Swagger UI is available for testing API endpoints:
 - [Project Documentation (PDF)](https://github.com/amit8683/Bill_Splitter/blob/main/Er.pdf)
 - [Presentation (PPT)](https://github.com/amit8683/Bill_Splitter/blob/main/Bill_Splitter_Presentation_Updated.pptx)
 
-## Contributors
+## Built By
 
-- **Your Name** - Amit
+ - Amit
