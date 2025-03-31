@@ -13,6 +13,7 @@ The Bill Splitter application is a web-based platform that helps users manage sh
 - **Payment Requests**: Members can request payment confirmation.
 - **Payment Settlement**: Only the team creator can mark expenses as settled.
 - **Database Management**: Uses MySQL for data storage.
+- **API Documentation**: Integrated Swagger for API testing and exploration.
 
 ## Tech Stack
 
@@ -22,6 +23,7 @@ The Bill Splitter application is a web-based platform that helps users manage sh
 - **MySQL** (Database)
 - **Spring Security** (Authentication & Authorization)
 - **JWT** (Token-based authentication)
+- **Swagger OpenAPI** (API Documentation)
 
 ### Frontend:
 
@@ -44,16 +46,19 @@ The database consists of the following tables:
 - **expenses**: Stores expense details.
 - **expense_splits**: Records individual shares in an expense.
 
+## API Documentation
+
+Swagger UI is available for testing API endpoints:
+
+- **Swagger UI**: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+- **OpenAPI Docs**: [http://localhost:8080/v3/api-docs](http://localhost:8080/v3/api-docs)
+
 ## Links
 
 | Component | Repository Link |
 | --------- | --------------- |
 | **Frontend** | [BillSplitter-Frontend](https://github.com/amit8683/BillSplitter-Frontend) |
 | **Backend**  | [BillSplitter-Backend](https://github.com/amit8683/BillSplitter_Back-End) |
-
-
-
-
 
 ## Security & Authorization
 
@@ -63,14 +68,9 @@ The database consists of the following tables:
 
 ## Additional Resources
 
-
-
 - [Project Documentation (PDF)](https://github.com/amit8683/Bill_Splitter/blob/main/Er.pdf)
 - [Presentation (PPT)](https://github.com/amit8683/Bill_Splitter/blob/main/Bill_Splitter_Presentation_Updated.pptx)
 
-
-
-
 ## Contributors
 
-- Your Name - Amit
+- **Your Name** - Amit
