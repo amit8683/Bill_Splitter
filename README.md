@@ -49,7 +49,7 @@ The database consists of the following tables:
 | Component | Repository Link |
 | --------- | --------------- |
 | **Frontend** | [BillSplitter-Frontend](https://github.com/amit8683/BillSplitter-Frontend) |
-| **Backend**  | [BillSplitter-Backend](https://github.com/amit8683/BillSplitterBackend) |
+| **Backend**  | [BillSplitter-Backend](https://github.com/amit8683/BillSplitter_Back-End) |
 
 
 
